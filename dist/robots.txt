@@ -1,0 +1,31 @@
+# robots.txt — PrecioMercadoAQP
+# Allow all search engines and AI bots to crawl
+
+User-agent: *
+Allow: /
+Disallow: /admin
+
+# AI Search Engines
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://mercadoaqp.js.org/sitemap.xml
