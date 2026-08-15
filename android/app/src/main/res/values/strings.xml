@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mercadoaqp</string>
+    <string name="title_activity_main">mercadoaqp</string>
+    <string name="package_name">com.mercadopreciosaqp.app</string>
+    <string name="custom_url_scheme">com.mercadopreciosaqp.app</string>
+</resources>
